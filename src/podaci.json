@@ -1,0 +1,51 @@
+[
+    {
+        "dan": "ponedeljak",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "utorak",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "sreda",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "cetvrtak",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "petak",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "subota",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    },
+    {
+        "dan": "nedelja",
+        "min": 10,
+        "max": 20,
+        "prosecno": 17,
+        "opis": "nesto"
+    }
+]
