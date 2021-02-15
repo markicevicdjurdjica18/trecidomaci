@@ -1,51 +1,51 @@
 [
     {
         "dan": "ponedeljak",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": -6,
+        "max": 3,
+        "prosecno": 1,
+        "opis": "Delimično oblačno"
     },
     {
         "dan": "utorak",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": -2,
+        "max": 6,
+        "prosecno": 4,
+        "opis": "Povremeni pljuskovi"
     },
     {
         "dan": "sreda",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": 4,
+        "max": 11,
+        "prosecno": 7,
+        "opis": "Povremeni pljuskovi"
     },
     {
         "dan": "cetvrtak",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": 5,
+        "max": 12,
+        "prosecno": 10,
+        "opis": "Sunčano"
     },
     {
         "dan": "petak",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": 4,
+        "max": 9,
+        "prosecno": 8,
+        "opis": "Delimično oblačno"
     },
     {
         "dan": "subota",
         "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "max": 15,
+        "prosecno": 12,
+        "opis": "Sunčano"
     },
     {
         "dan": "nedelja",
-        "min": 10,
-        "max": 20,
-        "prosecno": 17,
-        "opis": "nesto"
+        "min": 9,
+        "max": 13,
+        "prosecno": 10,
+        "opis": "Povremeni pljuskovi"
     }
 ]
